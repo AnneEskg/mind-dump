@@ -1,0 +1,15 @@
+.carousel-caption {
+    color: white; /* Cor da letra em branco */
+  }
+  
+  .carousel-caption h5{
+    color: white; /* Cor branca para título e descrição */
+    text-shadow: 2px 2px 0 red,  /* Borda vermelha no texto */
+                 -2px -2px 0 red,
+                 -2px 2px 0 red,
+                 2px -2px 0 red;
+  }
+
+  .card-group{
+    border: 2px solid red; /* Define a borda vermelha */
+  }
